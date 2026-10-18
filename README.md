@@ -6,6 +6,20 @@
 
 ---
 
+## Repo map
+
+| What | Where |
+|---|---|
+| Teardown (CIRCLES) | this README |
+| Product requirements, hypotheses, metrics, experiment design | [`docs/PRD.md`](docs/PRD.md) |
+| User stories and acceptance criteria | [`docs/user-stories.md`](docs/user-stories.md) |
+| Research method, survey and coding template (planned, not yet run) | [`docs/research/`](docs/research/) |
+| SwiftUI prototype of the verification flow | [`SwiftUI-Prototype/`](SwiftUI-Prototype/) |
+
+Everything beyond the teardown is a proposal. Metrics, thresholds and the pilot are plans, not results.
+
+---
+
 ## Why This App
 
 Most product teardowns pick Slack, Notion, Duolingo, or Airbnb. This one picks a government sanitation-complaint app because it surfaces a problem more interesting than a UI critique: a product whose core trust mechanism is actively being gamed, at scale, with no automated way to catch it.
